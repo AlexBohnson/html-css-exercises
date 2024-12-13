@@ -2,5 +2,15 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
+}
+
+
+ul {
+
+  list-style-type: none;
+}
+
+p {
+  margin-left: 20px;
 }
